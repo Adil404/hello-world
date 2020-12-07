@@ -1,6 +1,6 @@
 ### creating new readme file to learn more about readme.md
 
-**Sequential search is a a method for finding an element within a list
+**Sequential search is a a method for finding an element within a list*
 ```
 def search(lst, item):
     pos = 0
