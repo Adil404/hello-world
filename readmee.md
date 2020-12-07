@@ -1,5 +1,6 @@
 ### creating new readme file to learn more about readme.md
-'''Sequential search is a a method for finding an element within a list
+'''
+Sequential search is a a method for finding an element within a list
 
 def search(lst, item):
     pos = 0
@@ -18,4 +19,5 @@ def search(lst, item):
 
 
 print(search([1,3,4,3], 4))   'true'
-print(search([1,3,2,3,5,6], 9))  'False' '''
+print(search([1,3,2,3,5,6], 9))  'False' 
+'''
